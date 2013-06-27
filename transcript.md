@@ -189,81 +189,51 @@ solved for so long as stupidity and evilness are present in the halls of
 power, which is to say they will never be solved.  But I have another
 theory about what's happened.
 
-[[644.4]] It's not that regulators don't understand information technology,
-because it should be possible to be a non-expert and still make a good law! 
-M.P.s and Congressmen and so on are elected to represent districts and
-people, not disciplines and issues.  We don't have a Member of Parliament
-for biochemistry, and we don't have a Senator from the great state of urban
-planning, and we don't have an M.E.P. from child welfare.  (But perhaps we
-should.)  And yet those people who are experts in policy and politics, not
-technical disciplines, nevertheless, often do manage to pass good rules that
-make sense, and that's because government relies on heuristics -- rules of
-thumbs about how to balance expert input from different sides of an issue.
+[[644.4]] Не то чтобы законотворцы не понимают информационных технологий, 
+потому как это должно быть возможным не быть экспертом и при этом писать 
+хорошие законы! Члены парламента, конгрессмены и им подобные избраны 
+представлять округа и людей, а не дисциплины и проблемы. У нас нет членов 
+парламета по вопросам биохимии, нет сенаторов из великого штата городского 
+планирования, нет министров по проблемам детского благополучия. (Хотя, 
+возможно, и стоило бы.) И тем не менее, эти люди, эксперты в курсах и 
+политике, не технических дисциплинах, всё-таки часто умудряются производить 
+на свет хорошие осмысленные законы и это происходит потому что правительство 
+пологается на эвристику -- эмперическое правило (правило пальца) о том как 
+сбалансировать экспертное мнение с разных сторон проблемы.
 
-[[686.3]] But information technology confounds these heuristics -- it kicks
-the crap out of them -- in one important way, and this is it.  One important
-test of whether or not a regulation is fit for a purpose is first, of
-course, whether it will work, but second of all, whether or not in the
-course of doing its work, it will have lots of effects on everything else. 
-If I wanted Congress to write, or Parliament to write, or the E.U. to
-regulate a wheel, it's unlikely I'd succeed.  If I turned up and said "well,
-everyone knows that wheels are good and right, but have you noticed that
-every single bank robber has four wheels on his car when he drives away from
-the bank robbery?  Can't we do something about this?", the answer would of
-course be "no".  Because we don't know how to make a wheel that is still
-generally useful for legitimate wheel applications but useless to bad guys. 
-And we can all see that the general benefits of wheels are so profound that
-we'd be foolish to risk them in a foolish errand to stop bank robberies by
-changing wheels.  Even if there were an /epidemic/ of bank robberies, even
-if society were on the verge of collapse thanks to bank robberies, no-one
-would think that wheels were the right place to start solving our problems. 
+[[686.3]] Но информационные технологии ставят эту эвристику в тупик в одном 
+важном моменте, и вот в каком. Ключевым фактором того, соответствует ли закон 
+поставленной цели это, во-первых, конечно, будет ли он работать, но во-вторых, 
+не повлеяет ли он на всё остальное. Если бы я хотел чтобы Конгресс или 
+Парламент, или Евросоюз написали закон о запрете колеса, он бы врятли прошел. 
+Если бы я встал и сказал "чтож, всем известно, что колеса - это хорошо и 
+правильно, но не замечали ли вы, что у всех до одного грабителей банков ровно 
+по четыре колеса на машине когда они скрываются с очередного ограбления? Можем 
+ли мы что-то с этим сделать?", ответ был бы конечно "нет". Потому что мы не 
+знаем как сделать колесо, которое бы в общем подходило для легитимного 
+использования, но при этом не подходило бы преступникам. Мы все видим что 
+польза от колеса столь высока, что было бы глупо рисковать ей чтобы 
+обезопаситься от грабежей банков заменив колеса. Даже если бы началась эпидемия 
+грабежей, даже общество было бы на грани коллапса благодаря грабежу, никто бы и 
+не подумал что колеса - то, с чего стоит начать решать наши проблемы.
 
-[[762.0]]  But.  If I were to show up in that same body to say that I had
-absolute proof that hands-free phones were making cars dangerous, and I
-said, "I would like you to pass a law that says it's illegal to put a
-hands-free phone in a car", the regulator might say "Yeah, I'd take your
-point, we'd do that".  And we might disagree about whether or not this is a
-good idea, or whether or not my evidence made sense, but very few of us
-would say "well, once you take the hands-free phones out of the car, they
-stop being cars".  We understand that we can keep cars cars even if we
-remove features from them.  Cars are special purpose, at least in comparison
-to wheels, and all that the addition of a hands-free phone does is add one
-more feature to an already-specialized technology.  In fact, there's that
-heuristic that we can apply here -- special-purpose technologies are
-complex.  And you can remove features from them without doing fundamental
-disfiguring violence to their underlying utility.
+[[762.0]] Но. Если б я, в том же теле, встал бы и сказал, что у меня есть 
+неопровержимые доказательства что hands-free делает управление автомобилем 
+опасней, если б я сказал "Я хочу чтобы вы приняли закон запрещающий встраивать 
+hands-free в автомобили", законотворец мог бы ответить "Да, мне нравится твоя 
+позиция, мы сделаем это". И мы можем не соглашаться о том, хорошая ли это идея 
+или о том, имеют ли мои доказательства силу, но мало кто сказал бы "если ты 
+уберешь из машины hands-free, она перестанет быть машиной". Мы понимаем что 
+машина останется машиной даже если мы уберем из нее отдельную функцию. Машина - 
+сложное устройство, по крайней мере по сравнению с колесом, и всё что делает 
+hands-free - это добавляет еще одну функцию к уже сложной технологии. В 
+сущности, тот прием что мы здесь применяем и есть та эвристика: сложные 
+технологии - это комплекс и ты можешь убирать отдельные функции без ущерба для 
+их общей функциональности.
 
-[[816.5]] This rule of thumb serves regulators well, by and large, but it is
-rendered null and void by the general-purpose computer and the
-general-purpose network -- the PC and the Internet.  Because if you think of
-computer software as a feature, that is a computer with spreadsheets running
-on it has a spreadsheet feature, and one that's running World of Warcraft
-has an MMORPG feature, then this heuristic leads you to think that you could
-reasonably say, "make me a computer that doesn't run spreadsheets", and that
-it would be no more of an attack on computing than "make me a car without a
-hands-free phone" is an attack on cars.  And if you think of protocols and
-sites as features of the network, then saying "fix the Internet so that it
-doesn't run BitTorrent", or "fix the Internet so that thepiratebay.org no
-longer resolves", then it sounds a lot like "change the sound of busy
-signals", or "take that pizzeria on the corner off the phone network", and
-not like an attack on the fundamental principles of internetworking.
+[[816.5]] Это эмперическое правило служит законотворцам верой и правдой в глобальном масштабе, но становится абсолютно бесполезно в случае с компьютерами и интернетом. Потому как если вы думаете о программах как о функциях, что компьютер с Экселем имеет функцию работы с электронными таблицами, а компьюетер с World of Warcraft имеет функцию игры онлайн, то эта эвристика приводит вас к мысли что вы можете резонно заявить "сделайте мне компьютер, на котором не будут работать редакторы электронных таблиц" и это не будет такой же атакой на вычислительную составляющую компьютера, как "сделайте мне машину без hands-free" не будет атакой на машины. И если вы думаете о протоколах и сайтах как о функциях, тогда говоря "почините интернет чтоб в нем не работал BitTorrent" или "почините интернет чтобы thepiratbay.org больше не отвечал", или "отключите пиццерию на углу от телефонной сети" вы пологаете что не вмешиваетесь в фундаментальные принципы работы сети.
 
-[[870.5]] Not realizing that this rule of thumb that works for cars and for
-houses and for every other substantial area of technological regulation
-fails for the Internet does not make you evil and it does not make you an
-ignoramus.  It just makes you part of that vast majority of the world for
-whom ideas like "Turing complete" and "end-to-end" are meaningless.  So, our
-regulators go off, and they blithely pass these laws, and they become part
-of the reality of our technological world.  There are suddenly numbers that
-we aren't allowed to write down on the Internet, programs we're not allowed
-to publish, and all it takes to make legitimate material disappear from the
-Internet is to say "that?  That infringes copyright."  It fails to attain
-the actual goal of the regulation; it doesn't stop people from violating
-copyright, but it bears a kind of superficial resemblance to copyright
-enforcement -- it satisfies the security syllogism: "something must be done,
-I am doing something, something has been done." And thus any failures that
-arise can be blamed on the idea that the regulation doesn't go far enough,
-rather than the idea that it was flawed from the outset.
+[[870.5]] Отсутствие осознания факта что это эмперическое правило, которое работает для машин, домов и для любой другой существенной части технологических законов не работает для Интернета не делает вас злом и не делает вас невеждами. Оно просто делает вас частью подавляющего большинства населения мира, для которых идеи вроде "Тьюринг-полный" или "сквозная маршрутизация" бессмысленны. Так что законотворцы сдаются и небрежно принимают эти законы, которые тут же становятся частью реальности нашего технологического мира. Внезапно появляются числа, которые нам запрещено писать в интернете, программы, которые нам запрещено публиковать, и всё что требуется чтобы убрать из сети легальный материал - это сказать "он нарушает копирайт". Законы не служат своим целям; они не мешают людям нарушать копирайт, однако они несут внешние признаки защиты копирайта, удовлетворяет силлогизму безопасности: "что-то должно быть сделано, я делаю что-то, что-то сделано". И таким образом, в любом провале можно обвинить идею, что законотворцы не ушли достаточно далеко, вместо идеи что это был ошибочный шаг с самого начала.
 
 [[931.2]] This kind of superficial resemblance and underlying divergence
 happens in other engineering contexts.  I've a friend who was once a senior
